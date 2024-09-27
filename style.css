@@ -16,8 +16,8 @@ body {
 }
 .container {
   width: 400px;
-  /* max-width: 90%; */
-  /* height: 85vh; */
+  max-width: 90%;
+  height: 85vh; 
   background-color: hsl(0, 0%, 10%);
   color: white;
   display: flex;
@@ -74,12 +74,6 @@ body {
   font-weight: bold;
 }
 
-
-
-
-
-
-
 .buttons_container a:hover {
     background-color: hsl(75, 94%, 57%);
     transition: 0.4s all ease-in-out;
@@ -87,9 +81,3 @@ body {
 }
 
 
-/* a,
-a:focus,
-a:active {
-  text-decoration: none;
-  color: hsl(0, 0%, 100%);
-} */
